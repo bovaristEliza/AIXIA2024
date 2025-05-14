@@ -1,4 +1,5 @@
-# AIXIA2024
+# AIXIA2024 - 23rd International Conference of the Italian Association for Artificial Intelligence
+### 25–28 November 2024, Bolzano, Italy
 
 # Probabilistic Traces in Declarative Process Mining
 
